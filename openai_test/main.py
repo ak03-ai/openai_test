@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# This is a sample Python script to work with openai API.
 
 import os
 import openai
